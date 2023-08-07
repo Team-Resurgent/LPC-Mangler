@@ -1,0 +1,22 @@
+
+#PINLOCK_BEGIN
+
+#Thu Dec 30 02:18:54 2021
+
+# LPC Mangler 1.0 XC9572XL-VQ64 Pins
+NET "CFGPINS<0>"     LOC =  "S:PIN34";
+NET "CFGPINS<1>"     LOC =  "S:PIN33";
+NET "CFGPINS<2>"     LOC =  "S:PIN9";
+#NET "LPC_RST"        LOC =  "S:PIN16";
+NET "LPC_CLK"        LOC =  "S:PIN15";
+NET "LPC_FRM"        LOC =  "S:PIN57";
+NET "LPC_LAD<0>"     LOC =  "S:PIN60";
+NET "LPC_LAD<1>"     LOC =  "S:PIN61";
+NET "LPC_LAD<2>"     LOC =  "S:PIN62";
+NET "LPC_LAD<3>"     LOC =  "S:PIN63";
+NET "SL_FRM"         LOC =  "S:PIN19";
+NET "SL_LAD<0>"      LOC =  "S:PIN25";
+NET "SL_LAD<1>"      LOC =  "S:PIN24";
+NET "SL_LAD<2>"      LOC =  "S:PIN22";
+NET "SL_LAD<3>"      LOC =  "S:PIN20";
+#PINLOCK_END

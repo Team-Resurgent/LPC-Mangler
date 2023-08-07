@@ -1,0 +1,20 @@
+
+#PINLOCK_BEGIN
+
+#Thu Dec 30 02:18:54 2021
+
+
+
+# VQ64 Pins
+
+#NET "LPC_RST"        LOC =  "S:PIN16";
+NET "lpc_clk"         LOC =  "S:PIN15";
+NET "lpc_frame"       LOC =  "S:PIN57";
+NET "lpc_data<0>"     LOC =  "S:PIN60";
+NET "lpc_data<1>"     LOC =  "S:PIN61";
+NET "lpc_data<2>"     LOC =  "S:PIN62";
+NET "lpc_data<3>"     LOC =  "S:PIN63";
+NET "uart_tx"         LOC =  "S:PIN9";
+#NET "uart_rx"        LOC =  "S:PIN34";
+
+#PINLOCK_END

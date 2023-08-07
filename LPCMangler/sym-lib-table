@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LPC_Flash_plcc)(type Legacy)(uri C:/Users/Grizzly/Documents/LPC_Flash_plcc.lib)(options "")(descr ""))
+)
